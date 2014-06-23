@@ -2,8 +2,8 @@
 int main(){
 
 	printf("123");
-
-	printf("000");
+	printf("456")
+	printf("120");
 	return 0;
 }
 
